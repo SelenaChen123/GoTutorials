@@ -1,2 +1,3 @@
 # GoTutorials
-Completed Go tutorials
+
+These are completed Go tutorials.
